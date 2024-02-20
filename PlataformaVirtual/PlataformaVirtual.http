@@ -1,0 +1,6 @@
+@PlataformaVirtual_HostAddress = http://localhost:5193
+
+GET {{PlataformaVirtual_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
